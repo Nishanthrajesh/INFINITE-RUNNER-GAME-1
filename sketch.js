@@ -85,7 +85,6 @@ function draw() {
   //displaying score
   text("Score: "+ score, trex.x-50,trex.y-250);
   
-  camera.y = trex.y
   camera.x = trex.x
 
   
