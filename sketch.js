@@ -83,7 +83,7 @@ function draw() {
   
   background("white");
   //displaying score
-  text("Score: "+ score, trex.x-50,ground.y-80);
+  text("Score: "+ score, trex.x-50,ground.y-130);
   
   camera.x = trex.x
 
